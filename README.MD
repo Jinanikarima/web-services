@@ -1,0 +1,12 @@
+<h1>Compte Rendu</h1>
+<img src="Captures/1.png">
+<h2>ws41 </h2>
+<h3>BanqueService :</h3>
+<img src="Captures/2.png">
+<h3>Compte :</h3>
+<img src="Captures/3.png">
+<h3>ServeurJWS :</h3>
+<img src="Captures/4.png">
+<h2>Client441 </h2>
+<h3>ClientWS :</h3>
+<img src="Captures/5.png">
